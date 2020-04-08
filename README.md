@@ -13,6 +13,8 @@
 ### Functions
 * [functions](https://github.com/hafizhsb/javascript/tree/master/functions)
 * [call stack](https://github.com/hafizhsb/javascript/blob/master/functions/call-stack.js)
+* [map](https://github.com/hafizhsb/javascript/blob/master/functions/array/map.js)
+* [reduce](https://github.com/hafizhsb/javascript/blob/master/functions/array/reduce.js)
 
 ### OOP
 * [class](https://github.com/hafizhsb/javascript/blob/master/OOP/class.js)
