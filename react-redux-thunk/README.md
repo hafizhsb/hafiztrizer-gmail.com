@@ -1,0 +1,1 @@
+example of simple react redux with redux-thunk
